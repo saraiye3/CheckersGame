@@ -1,1 +1,1 @@
-# CheckersGame
+This Checkers game project in C features a fully autonomous computer vs. computer match, where both players utilize recursion and tree structures to evaluate the optimal move at each turn. This project demonstrates advanced procedural programming techniques, including recursive algorithms and game tree evaluation, to simulate intelligent decision-making and strategic gameplay.
